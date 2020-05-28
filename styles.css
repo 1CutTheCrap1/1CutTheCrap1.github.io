@@ -43,12 +43,12 @@ input[type=text] {
   font-size: 1.5rem;
 }
 
-@media (max-width: 1000px){
+/*@media (max-width: 1000px){
   body {
     background-image: url("elements/bg_phone.png");
     background-size: cover;
   }
-}
+}*/
 @media (max-width: 500px){
   input[type=text] {
     font-size: 13px;
